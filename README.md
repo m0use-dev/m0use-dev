@@ -1,4 +1,4 @@
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
+[![Twitter: m0use_dev](https://img.shields.io/twitter/follow/m0use_dev?style=social)](https://twitter.com/m0use_dev)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=m0use-dev&left_color=gray&right_color=blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0use-dev&theme=vue)
