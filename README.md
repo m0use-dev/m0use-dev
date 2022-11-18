@@ -3,7 +3,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0use-dev&theme=vue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0use-dev&show_icons=true&count_private=true&theme=dracula)
 
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=m0use-dev&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/ユーザ名/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0use-dev&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0use-dev&layout=compact&theme=dracula)](https://github.com/m0use-dev/)
