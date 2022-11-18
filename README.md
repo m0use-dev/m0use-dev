@@ -3,6 +3,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m0use-dev&theme=vue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0use-dev&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0use-dev&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0use-dev&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0use-dev&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
